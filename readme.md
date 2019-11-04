@@ -2,8 +2,6 @@
 
 Introduction: This tool is for MIBI data preprocessing and is the Python 3 version implementation of its original MATLAB version (https://github.com/lkeren/MIBIAnalysis) from Keren et al Cell 2018. Check the [jupyter notebook](https://github.com/dpeerlab/MIBI_pre-processing_pipeline/blob/master/code/MIBI_preprocessing_demo-2019-11-03.ipynb) in the code folder to see the usage. It involes background subtraction, noise removal, and aggregates removal.
 
-Last update: 2019.11.03
-
 Package: The versions of the package used in this tool are shown here.
 scikit-learn==0.21.2
 Pillow==6.0.0
@@ -12,6 +10,8 @@ numpy==1.16.0
 matplotlib==3.1.0
 scikit-image==0.16.2
 scipy==1.2.1
+
+Last update: 2019.11.03
 
 ## Example
 
