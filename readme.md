@@ -1,6 +1,6 @@
 # Multiplex Ion Beam Imaging pre-processing tool - Python version 
 
-Introduction: This tool is for MIBI data preprocessing and is the Python 3 version implementation of its original MATLAB version (https://github.com/lkeren/MIBIAnalysis) from Keren et al Cell 2018. Check the [jupyter notebook](https://github.com/dpeerlab/MIBI_pre-processing_pipeline/blob/master/code/MIBI_preprocessing_demo-2019-11-03.ipynb) in code folder to see the usage.
+Introduction: This tool is for MIBI data preprocessing and is the Python 3 version implementation of its original MATLAB version (https://github.com/lkeren/MIBIAnalysis) from Keren et al Cell 2018. Check the [jupyter notebook](https://github.com/dpeerlab/MIBI_pre-processing_pipeline/blob/master/code/MIBI_preprocessing_demo-2019-11-03.ipynb) in the code folder to see the usage.
 
 Last update: 2019.11.03
 
