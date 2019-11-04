@@ -2,8 +2,6 @@
 
 Introduction: This Jupyter notebook is for MIBI data preprocessing and is the Python 3 version implementation of its original MATLAB version (https://github.com/lkeren/MIBIAnalysis) from Keren et al Cell 2018. 
 
-Author: Yubin Xie from Dana Pe'er lab at Memorial Sloan Kettering Cancer Center and Daniel Li from Itsik Pe'er lab at Columbia University
-
 Last update: 2019.11.03
 
 Package: The versions of the package used in this tool are shown here.
