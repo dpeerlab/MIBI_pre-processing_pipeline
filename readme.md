@@ -1,6 +1,6 @@
 # Multiplex Ion Beam Imaging pre-processing tool - Python version 
 
-This tool is for Multiplex Ion Beam Imaging (MIBI) data preprocessing and represents the Python 3 implementation of the original MATLAB version (https://github.com/lkeren/MIBIAnalysis) from [Keren et al. Cell 2018](https://www.ncbi.nlm.nih.gov/pubmed/30193111). Check the [jupyter notebook](https://github.com/dpeerlab/MIBI_pre-processing_pipeline/blob/master/code/MIBI_preprocessing_demo-2019-11-03.ipynb) in the code folder to see usage examples. The preprocessing pipline includes background subtraction, noise removal and aggregate removal.
+This tool is for Multiplex Ion Beam Imaging (MIBI) data preprocessing and represents the Python 3 implementation of the original MATLAB version (https://github.com/lkeren/MIBIAnalysis) from [Keren et al. Cell 2018](https://www.ncbi.nlm.nih.gov/pubmed/30193111). Check the [jupyter notebook](https://nbviewer.jupyter.org/github/dpeerlab/MIBI_pre-processing_pipeline/blob/master/code/MIBI_preprocessing_demo-2019-11-03.ipynb) in the code folder to see usage examples. The preprocessing pipline includes background subtraction, noise removal and aggregate removal.
 
 Versions of the package used in this tool:
 scikit-learn==0.21.2
